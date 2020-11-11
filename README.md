@@ -1,3 +1,5 @@
 # FCC-Product-Landing-Page
 
-Working Here : https://codepen.io/techcursed/pen/rNLePJj
+Product Landing Page made for freecodecamp
+
+Working Here : https://romantic-torvalds-62fdda.netlify.app/
